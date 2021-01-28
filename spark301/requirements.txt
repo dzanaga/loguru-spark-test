@@ -1,0 +1,4 @@
+# loguru==0.3.2
+loguru
+notifiers
+pyspark==3.0.1
